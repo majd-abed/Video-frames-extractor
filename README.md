@@ -1,4 +1,4 @@
-# Video Frame Extractor
+# Video Frames Extractor
 
 This Python script allows you to extract all frames from a video and save them as individual image files. It uses the OpenCV library to accomplish this task.
 
