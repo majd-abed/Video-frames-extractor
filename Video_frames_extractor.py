@@ -40,9 +40,9 @@ def extract_frames(video_path, output_folder):
 
 if __name__ == "__main__":
     # Input video file path
-    video_path = "sample.mp4"
+    video_path = "input_video.mp4"
 
     # Output folder to save frames
-    output_folder = "f"
+    output_folder = "frames"
 
     extract_frames(video_path, output_folder)
