@@ -20,4 +20,4 @@ Before using this script, make sure you have the following installed:
 4. Run the script using the following command:
 
    ```bash
-   python script.py
+   python Video_frames_extractor.py.py
